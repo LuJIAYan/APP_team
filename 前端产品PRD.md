@@ -25,7 +25,7 @@
 <img src="images/产品框架图.jpg"  alt="产品框架图" />
 
 * 页面结构图：
-<img src="images/页面结构图.jpg"  alt="页面结构图" />
+<img src="images/页面结构图 (1).jpg"  alt="页面结构图" />
 
 ## APP使用流程图：
 （此处需要一张流程图）
