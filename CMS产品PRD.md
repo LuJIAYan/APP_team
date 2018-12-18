@@ -18,7 +18,7 @@ https://blog.csdn.net/sinat_29485667/article/details/58603677  2.1、2.2部分<b
 
 
 # 使用流程图：
-（此处应有一张图）
+![Image text](./images/cms流程图.jpg)  
 
 # 角色权限框架图
 * 管理员
