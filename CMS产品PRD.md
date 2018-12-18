@@ -17,13 +17,16 @@
 * [用户](https://bingxin70aa.github.io/T-talk_role_framework/#g=1&p=%E9%A6%96%E9%A1%B5)
 * [管理员](https://bingxin70aa.github.io/T-talk_role_framework/#g=1&p=%E9%A6%96%E9%A1%B5_1)
 
-## （1）用户
+
+![角色权限框架图](https://github.com/bingxin70aa/T-talk_role_framework/blob/master/t-talk%E8%A7%92%E8%89%B2%E6%A1%86%E6%9E%B6.jpeg?raw=true)
+
+## 1. 用户
 ### 首页
 ### 内容管理
 * 文章列表：演讲视频经验分享（干货）
 * 编辑列表：图、标题等
 
-## （2）管理员
+## 2. 管理员
 ### 首页
 ### 历史统计
 今日浏览量、用户新增量、今日访问量等
@@ -38,4 +41,4 @@
 
 
 
-![角色权限框架图](https://github.com/bingxin70aa/T-talk_role_framework/blob/master/t-talk%E8%A7%92%E8%89%B2%E6%A1%86%E6%9E%B6.jpeg?raw=true)
+
