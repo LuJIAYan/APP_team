@@ -1,12 +1,5 @@
-参考链接：CMS内容管理系统需求说明书_百度文库  （哈哈是我们学校老师写的耶） <br> 
-https://wenku.baidu.com/view/9ce82f91866fb84ae55c8d21.html<br>
-2.11模块结构图部分--产品框架图<br>
-2.2用户特点 --介绍角色权限框架图<br>
-内容管理系统（CMS）的产品思维框架 | 人人都是产品经理  http://www.woshipm.com/pd/377055.html 2、梳理流程部分--流程图<br>
-https://blog.csdn.net/sinat_29485667/article/details/58603677  2.1、2.2部分<br>
 
-
-# 产品框架图：
+# 1.产品框架图：
 ## 主要功能模块
 ### 1. 前台内容显示模块
 
@@ -17,10 +10,10 @@ https://blog.csdn.net/sinat_29485667/article/details/58603677  2.1、2.2部分<b
 
 
 
-# 使用流程图：
+# 2.使用流程图：
 ![Image text](./images/cms流程图.jpg)  
 
-# 角色权限框架图
+# 3.角色权限框架图
 * [管理员](https://bingxin70aa.github.io/T-talk_role_framework/#g=1&p=%E9%A6%96%E9%A1%B5_1)
 * [用户](https://bingxin70aa.github.io/T-talk_role_framework/#g=1&p=%E9%A6%96%E9%A1%B5)
 
