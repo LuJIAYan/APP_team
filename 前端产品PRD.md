@@ -7,7 +7,7 @@
 <img src="images/页面结构图 (1).jpg"  alt="页面结构图" />
 
 ## APP使用流程图：
-（此处需要一张流程图）
+<img src="images/总流程图.png"  alt="流程图" />
 
 
 ## 用户体系构架图：
