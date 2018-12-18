@@ -21,7 +21,6 @@ https://blog.csdn.net/sinat_29485667/article/details/58603677  2.1、2.2部分<b
 ![Image text](./images/cms流程图.jpg)  
 
 # 角色权限框架图
-* 管理员
-* 用户
-* 运营
-（此处应有一张图）
+* [管理员](https://bingxin70aa.github.io/T-talk_role_framework/#g=1&p=%E9%A6%96%E9%A1%B5_1)
+* [用户](https://bingxin70aa.github.io/T-talk_role_framework/#g=1&p=%E9%A6%96%E9%A1%B5)
+![角色权限框架图](https://github.com/bingxin70aa/T-talk_role_framework/blob/master/t-talk%E8%A7%92%E8%89%B2%E6%A1%86%E6%9E%B6.jpeg?raw=true)
