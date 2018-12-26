@@ -17,12 +17,17 @@ V2.7|2018.12.19 | 新增CMS角色权限架构图| 侯冰昕
 
 
 
-* 前端PRD档分工：
-1. APP使用流程--陈静雯 
-2. 用户体系图--卢婉珊
-3. 产品框架图--卢佳燕
-
-* 后台CMS档分工：
-1. 产品构架图--林树斌
-2. 使用流程图--甘瑜
-3. 角色权限架构图--侯冰昕
+## T-talk演讲APP项目
+- [1.市场需求文档MRD](https://gitee.com/lujiayan/APP_team/blob/master/MRD.md)
+- [2.产品文档PRD](https://gitee.com/lujiayan/APP_team/blob/master/%E5%89%8D%E7%AB%AF%E4%BA%A7%E5%93%81PRD.md)
+- - [PRD1：理论加值](#03)
+- - [PRD2：前端产品信息设计](#04)
+- - -  [1.产品架构图](#05)
+- - -  [2.主要功能使用流程图](#05)
+- - -  [3.用户体系架构图](#05)
+- - [PRD3：CMS产品信息设计](https://gitee.com/lujiayan/APP_CMS) 
+- - -  [1.产品架构图](#05)
+- - -  [2.角色/权限架构图](#05)
+- [3.界面/交互设计](#07)
+- - [1.APP原型](https://lujiayan.github.io/APP_AXURE/)
+- - [2.CMS原型](#062)
